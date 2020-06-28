@@ -1,0 +1,14 @@
+<li class="active-category">All News</li> 
+ <li class="active-category">India</li> 
+ <li class="active-category">Business</li> 
+ <li class="active-category">Sports</li> 
+ <li class="active-category">World</li> 
+ <li class="active-category">Politics</li> 
+ <li class="active-category">Technology</li> 
+ <li class="active-category">Startup</li> 
+ <li class="active-category">Entertainment</li> 
+ <li class="active-category">Miscellaneous</li> 
+ <li class="active-category">Hatke</li> 
+ <li class="active-category">Science</li> 
+ <li class="active-category">Automobile</li> 
+ 
